@@ -8,7 +8,7 @@ repo: https://github.com/drivendata/cookiecutter-data-science
 
 site: http://drivendata.github.io/cookiecutter-data-science/
 
-
+[slides](group-project-example_team/slides.html)
 
 Project Organization
 ------------
