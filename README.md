@@ -1,14 +1,14 @@
 final-project-template
 ==============================
 
+[Slides](slides.html)
+
 A template I recommend for final projects. Feel free to modify as needed!
 Based on Cookiecutter Data Science:
 
 repo: https://github.com/drivendata/cookiecutter-data-science
 
 site: http://drivendata.github.io/cookiecutter-data-science/
-
-[slides](slides.html)
 
 Project Organization
 ------------
