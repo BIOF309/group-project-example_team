@@ -1,1 +1,1 @@
-[slides](group-project-example_team/slides.html)
+[slides](slides.html)
